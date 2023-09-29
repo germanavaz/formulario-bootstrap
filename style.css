@@ -1,0 +1,14 @@
+html, body {
+    color: #264653 ;
+    background-color: #e9c46a;
+    font-family: 'Gabarito', cursive;
+}
+
+h1 {
+    font-weight: 800;
+    color: #2a9d8f;
+}
+
+.espacamento {
+    margin-top: 5rem;
+}
